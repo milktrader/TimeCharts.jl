@@ -6,6 +6,7 @@ using Gaston, TimeSeries
 
 export plotreturn, 
        plotseries,
+       foo,
 ## testing
        @pricecharts
 

@@ -2,7 +2,7 @@ require("test.jl")
 
 using TimeSeries
 
-my_tests = ["test/pricecharts.jl"]
+my_tests = ["test/plot.jl"]
 
 print_with_color(:cyan, "Running tests: ") 
 println("")
